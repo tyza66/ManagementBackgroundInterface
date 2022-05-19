@@ -1,0 +1,2 @@
+叶落古林
+P3将近二十分钟处，进行新增操作时，如果出现前端表单有传到后端，即在controller可以查看到数据，但是浏览器报500错，数据无法插入数据库，可以尝试在User类中将@TableName("/user")中的/删去，并且将application.properties中的url改为spring.datasource.url=jdbc:mysql://localhost:3306/此处为你的数据库名?useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC。我是这样解决的，希望对大家有帮助。
