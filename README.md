@@ -5,6 +5,7 @@
 - Spring Boot模块：Spring Web,MySQL Driver,Lombok,MyBatis Framework
 - 实现功能：前后端分离实现后台管理页面及操作
 - 前端端口为8080，后端接口为9090
+- 资料：https://www.bilibili.com/video/BV14y4y1M7Nc
 
 ##### 数据库准备
 - 创建一个新的数据库命名为"springboot-vue"(或为其他名称，若为其他名称需要手动修改spring.datasource.url),字符集utf8mb4,排序规则unf8mb4_unicode_ci
