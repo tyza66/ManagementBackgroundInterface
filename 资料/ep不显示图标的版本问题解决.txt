@@ -1,0 +1,4 @@
+守门人吉力
+关于element-plus不显示图标的应为版本问题，图标要引入组件的形式使用，如：<template #title><el-icon><location /></el-icon><span>Navigator One</span></template>，import {Location,Document,Menu as IconMenu,Setting,} from '@element-plus/icons',  components: {Location,Document,Setting,IconMenu,}
+
+参考最新Element-plus的文档：https://element-plus.gitee.io/zh-CN/component/menu.html

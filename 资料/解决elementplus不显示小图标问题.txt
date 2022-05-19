@@ -1,0 +1,24 @@
+是刘平安啊
+elementPlus图标不显示问题：
+
+需要先安装icons
+
+npm install @element-plusicons -S
+
+在页面中导入
+
+import {ArrowDown} from @element-plusicons;
+
+
+
+    export default {
+
+        name Header,
+
+        components{
+
+            ArrowDown
+
+        }
+
+    }
