@@ -1,19 +1,18 @@
-# springboot-vue-demo
+# springboot-vue-demo前端部分快速部署
 
-## Project setup
+## 下载相关node模块
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 调试运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 编辑
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+By:tyza66(洮羱芝闇)
