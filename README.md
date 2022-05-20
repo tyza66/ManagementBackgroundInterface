@@ -4,7 +4,7 @@
 - 实现技术：vue3,vuerouter,vuex,element-plus,springboot,mysql,mybatisplus,axios,hutool
 - Spring Boot模块：Spring Web,MySQL Driver,Lombok,MyBatis Framework
 - 实现功能：前后端分离实现后台管理页面及操作
-- 前端端口为8080，后端接口为9090
+- 前端端口为8080，后端端口为9090
 
 ##### 数据库准备
 - 创建一个新的数据库命名为"springboot-vue"(或为其他名称，若为其他名称需要手动修改spring.datasource.url),字符集utf8mb4,排序规则unf8mb4_unicode_ci
