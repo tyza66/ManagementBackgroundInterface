@@ -4,7 +4,7 @@
       <Header />
       <div style="display:flex;">
         <Aside />
-        <router-view />
+        <router-view style="flex:1;"/>
       </div>
     </div>
   </el-config-provider>

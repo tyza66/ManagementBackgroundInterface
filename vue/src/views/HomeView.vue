@@ -2,8 +2,6 @@
   <div class="home" style="width: 100%;padding: 10px">
     <div style="margin:10px 0;">
       <el-button type="primary" @click="add">新增</el-button>
-      <el-button type="primary">导入</el-button>
-      <el-button type="primary">导出</el-button>
       <el-input clearable v-model="search" placeholder="请输入内容" style="width:20%;margin-left:10px;"></el-input>
       <el-button type="primary" style="margin-left:10px;" @click="load()">查询</el-button>
     </div>
