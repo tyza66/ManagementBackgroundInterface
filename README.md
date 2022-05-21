@@ -13,6 +13,6 @@
 
 ##### 运行在本地
 - 后端：使用idea导入springboot目录，初始化maven，运行即可
-- 前端：使用npm run serve启动即可
+- 前端：npm i后使用npm run serve启动即可
 
 By：tyza66(洮羱芝闇)
